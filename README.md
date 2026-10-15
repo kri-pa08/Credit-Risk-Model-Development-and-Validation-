@@ -1,1 +1,1 @@
-Credit Risk Analy
+Credit Risk Analyzer
